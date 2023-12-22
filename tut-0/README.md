@@ -1,4 +1,4 @@
 # Containerisation introduction
 
-Video: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C5yDAtbo0qk?si=7guMqiwKQEZfA0hI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Video: 
+[![Containerisation introduction](https://img.youtube.com/vi/C5yDAtbo0qk/0.jpg)](https://www.youtube.com/watch?v=C5yDAtbo0qk)
